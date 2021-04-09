@@ -2,4 +2,5 @@ Rencana cadangan :
 - jual pakaian di shopee
   * Modal pakaian beli di pasar andir
   * buat iklan di IG
+  * Cek katalog di grup Line
 - Perbesar pasar kedempling
